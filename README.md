@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/kubefirst-light.svg" alt="Kubefirst Logo">
-    <img alt="" src="img/kubefirst.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kubefirst/speaking/blob/main/img/kubefirst-light.svg" alt="Kubefirst Logo">
+    <img alt="" src="https://github.com/kubefirst/speaking/blob/main/img/kubefirst.svg">
   </picture>
 </p>
 
