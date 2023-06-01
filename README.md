@@ -1,6 +1,11 @@
 # Kubefirst Public Speaking Kit
 
-![Kubefirst logo: K-Ray mascot](img/kubefirst.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="img/kubefirst-light.svg" alt="Kubefirst Logo">
+    <img alt="" src="img/kubefirst.svg">
+  </picture>
+</p>
 
 At Kubefirst we are passionate about what we do, it's why we love to share our experience, knowledge and expertise with the tech industry.
 
