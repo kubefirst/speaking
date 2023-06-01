@@ -43,7 +43,7 @@
 			"pattern": "https://.*kubefirst.dev*"
 		},
 		{
-			"pattern": "https://www.twitter.com*"
+			"pattern": "https://*twitter.com*"
 		}
 	],
 	"replacementPatterns": [
