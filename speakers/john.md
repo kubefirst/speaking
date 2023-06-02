@@ -42,3 +42,42 @@ John Dietz has over 20 years of experience in lead roles across the IT spectrum 
 ### Videos
 
 - [kubefirst 101: After Install - Kubernetes Infrastructure Management GitOps Platform](https://www.youtube.com/watch?v=KEUOaNMUqOM)
+
+## Expertise
+
+### Technologies
+
+- Amazon Web Services (AWS)
+- Argo CD
+- Argo Workflows
+- Atlantis
+- cert-manager
+- ChartMuseum
+- DataDog
+- Docker
+- GitHub
+- GitHub Actions
+- GitHub Actions Runner Controller
+- GitLab
+- GitLab Runner
+- HashiCorp Vault
+- Ingress NGINX Controller
+- k3d
+- kubefirst
+- Kubernetes
+- Kubernetes External Secrets Operator
+- Kubernetes ExternalDNS
+- MinIO
+- mkcert
+- ngrok
+- Terraform
+
+### Topics
+
+- Application Delivery
+- Application Version Management
+- Cloud Native
+- GitOps
+- Infrastructure as Code (IaC)
+- Internal Developer Platforms
+- Secrets Management
