@@ -31,3 +31,29 @@ Fred gave 180 talks in 23 different countries. You can find the full list, inclu
 - [kubefirst v1.10 release & other awesomeness](https://www.youtube.com/watch?v=cjbWbyWCI4Q) (December 13 2022)
 
 TBD: add others done while not at kubefirst
+
+## Expertise
+
+### Technologies
+
+- Argo CD
+- Atlantis
+- Docker
+- GitHub
+- GitHub Actions
+- HashiCorp Vault
+- kubefirst
+- Kubernetes
+- Terraform
+
+### Topics
+
+- Cloud Native
+- Developer Documentation
+- Developer Relations
+- GitOps
+- Infrastructure as Code (IaC)
+- Mental Health
+- Open Source
+- Personal Branding
+- Public Speaking
