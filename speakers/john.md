@@ -24,20 +24,24 @@ John Dietz has over 20 years of experience in lead roles across the IT spectrum 
 
 ### Livestreams & Podcasts
 
-- [Monitor & Act on Your Kubernetes Cluster With Botkube](https://www.youtube.com/watch?v=RLmU472lync) (May 25 2023)
-- [Deep dive on kubefirst SSO & OIDC](https://www.youtube.com/watch?v=lmrHHrM2Jts) (May 21 2023)
+- Cisco Cloud Unfiltered - [Kubefirst: Kubernetes CI/CD should be easy!](https://www.youtube.com/watch?v=Jnk8ac6Bu88) (June 26 2023)
+- Kubernetes Bytes - [Accelerating Kubernetes Adoption: Unleashing the Power of GitOps using Kubefirst](https://www.youtube.com/watch?v=CSGF9VgYmXk) (June 23 2023)
+- Kubefirst Live - [Monitor & reduce Kubernetes spend with OpenCost](https://www.youtube.com/watch?v=k8j3GZokQp8) (June 22 2023)
+- Kubefirst Live - [Kubefirst 2.1: Instant GitOps platform gets an amazing User Interface](https://www.youtube.com/watch?v=WWuwjRpSewM) (June 8 2023)
+- Kubefirst Live -[Monitor & Act on Your Kubernetes Cluster With Botkube](https://www.youtube.com/watch?v=RLmU472lync) (May 25 2023)
+- Kubefirst Live -[Deep dive on kubefirst SSO & OIDC](https://www.youtube.com/watch?v=lmrHHrM2Jts) (May 21 2023)
 - KubeSkills - [Growing in Open Source: Scaling a Project and Community](https://www.youtube.com/watch?v=NMZxuazgaRM) (May 18 2023)
-- [Deep Dive on HashiCorp Terraform & Atlantis](https://www.youtube.com/watch?v=g-9_dQUzN4o) (April 27 2023)
-- [kubefirst 2.0.0 release livestream, with Civo](https://www.youtube.com/watch?v=l0MRtWbbiDk) (April 13 2023)
-- [The kubefirst Trifecta: NGINX Ingress Controller, cert-manager & external-dns](https://www.youtube.com/watch?v=o6dt-2Dp1xE) (March 20 2023)
-- [GitOps & Secrets Disaster Recovery](https://www.youtube.com/watch?v=7pt2P8Pv8a4) (March 16 2023)
-- [Integrating Argo Workflows with GitHub Actions & GitLab CI](https://www.youtube.com/watch?v=4VrgjdlpCmo) (March 2 2023)
-- [Let's talk HashiCorp Vault](https://www.youtube.com/watch?v=vczxh0SH5Hk) (February 16 2023)
-- [Argo CD Best Practices & Practical Patterns](https://www.youtube.com/watch?v=CJQBtDYA_44) (February 2 2023)
-- [kubefirst v1.11 Release - Local update, Improved Vault support](https://www.youtube.com/watch?v=dnb8PkstC0Y) (January 19 2023)
-- [kubefirst v1.10 release & other awesomeness](https://www.youtube.com/watch?v=cjbWbyWCI4Q) (December 13 2022)
-- [kubefirst v1.9 Release- Github, Hashicorp Vault and Admin Console](https://www.youtube.com/watch?v=6OwLwN_G9D0) (October 11 2022)
-- [kubefirst 1.8 Release](https://www.youtube.com/watch?v=2sFdz21JQ7c) (July 26 2022)
+- Kubefirst Live -[Deep Dive on HashiCorp Terraform & Atlantis](https://www.youtube.com/watch?v=g-9_dQUzN4o) (April 27 2023)
+- Kubefirst Live -[kubefirst 2.0.0 release livestream, with Civo](https://www.youtube.com/watch?v=l0MRtWbbiDk) (April 13 2023)
+- Kubefirst Live -[The kubefirst Trifecta: NGINX Ingress Controller, cert-manager & external-dns](https://www.youtube.com/watch?v=o6dt-2Dp1xE) (March 20 2023)
+- Kubefirst Live -[GitOps & Secrets Disaster Recovery](https://www.youtube.com/watch?v=7pt2P8Pv8a4) (March 16 2023)
+- Kubefirst Live -[Integrating Argo Workflows with GitHub Actions & GitLab CI](https://www.youtube.com/watch?v=4VrgjdlpCmo) (March 2 2023)
+- Kubefirst Live -[Let's talk HashiCorp Vault](https://www.youtube.com/watch?v=vczxh0SH5Hk) (February 16 2023)
+- Kubefirst Live -[Argo CD Best Practices & Practical Patterns](https://www.youtube.com/watch?v=CJQBtDYA_44) (February 2 2023)
+- Kubefirst Live -[kubefirst v1.11 Release: Local update, Improved Vault support](https://www.youtube.com/watch?v=dnb8PkstC0Y) (January 19 2023)
+- Kubefirst Live -[kubefirst v1.10 release & other awesomeness](https://www.youtube.com/watch?v=cjbWbyWCI4Q) (December 13 2022)
+- Kubefirst Live -[kubefirst v1.9 Release: Github, Hashicorp Vault and Admin Console](https://www.youtube.com/watch?v=6OwLwN_G9D0) (October 11 2022)
+- Kubefirst Live -[kubefirst 1.8 Release](https://www.youtube.com/watch?v=2sFdz21JQ7c) (July 26 2022)
 
 ### Videos
 
