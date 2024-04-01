@@ -18,6 +18,22 @@ Fred gave 180 talks in 23 different countries. You can find the full list, inclu
 
 ### Livestreams & Podcasts
 
+- [End-to-End testing & debugging with Tracetest](https://www.youtube.com/watch?v=mZUHbs2Npms) (March 28 2024)
+- [Adding applications to the kubefirst GitOps Catalog](https://www.youtube.com/watch?v=O8pTLnqIAuk) (February 1 2024)
+- [From GitLab SaaS to GitLab self-managed on kubefirst](https://www.youtube.com/watch?v=zKZP9IDeY0c) (January 18 2024)
+- [Musing on platform engineering & cloud native trends with Abby Bangser](https://www.youtube.com/watch?v=LjrusegcNAI) (December 21 2023)
+- [Taking Ownership of the kubefirst Argo Workflows](https://www.youtube.com/watch?v=OuPynDbN3W8) (December 7 2023)
+- [Reloader: live reloading made easy](https://www.youtube.com/watch?v=65HFXDfaYCQ) (November 28 2023)
+- [kubefirst 2.3: physical & virtual workload clusters](https://www.youtube.com/watch?v=KAo3KPYjQ98) (October 26 2023)
+- [Kyverno: a policy engine designed for Kubernetes](https://www.youtube.com/watch?v=hsf58XJD3j4) (October 12 2023)
+- [k3d: the heart of kubefirst’s local platform](https://www.youtube.com/watch?v=Ff9dVcTqKMg) (September 28 2023)
+- [Testkube: orchestrate your tests natively on Kubernetes](https://www.youtube.com/watch?v=C7Tzi46HQqQ&t=2s) (September 14 2023)
+- [vcluster: fully functional virtual Kubernetes clusters & how they work](https://www.youtube.com/watch?v=gVmuiK5uY7Q) (August 31 2023)
+- [Civo Marketplace & kubefirst: a match made in heaven](https://www.youtube.com/watch?v=d3ytIg8Yqws) (August 17 2023)
+- [Infrastructure automation: Terraform with Atlantis vs Crossplane](https://www.youtube.com/watch?v=D9vo4Xscktw) (August 3 2023)
+- [Deep Dive on metaphor: the kubefirst platform exploration application](https://www.youtube.com/watch?v=wCAWh__xXqQ) (July 20 2023)
+- [Monitor & reduce Kubernetes spend with OpenCost](https://www.youtube.com/watch?v=k8j3GZokQp8) (June 22 2023)
+- [Kubefirst 2.1: Instant GitOps platform gets an amazing User Interface](https://www.youtube.com/watch?v=WWuwjRpSewM) (June 8 2023)
 - [Monitor & Act on Your Kubernetes Cluster With Botkube](https://www.youtube.com/watch?v=RLmU472lync) (May 25 2023)
 - [Deep dive on kubefirst SSO & OIDC](https://www.youtube.com/watch?v=lmrHHrM2Jts) (May 21 2023)
 - KubeSkills - [Growing in Open Source: Scaling a Project and Community](https://www.youtube.com/watch?v=NMZxuazgaRM) (May 18 2023)
