@@ -17,6 +17,7 @@ As the Principal Developer Advocate at Kubefirst, Frédéric Harper helps Develo
 Fred gave 180 talks in 23 different countries. You can find the full list, including the slides, recording, and feedback on his [public speaking page](https://fred.dev/speaking/).
 
 ### Livestreams & Podcasts
+
 - [End-to-End testing & debugging with Tracetest](https://www.youtube.com/watch?v=mZUHbs2Npms) (March 28 2024)
 - [Adding applications to the kubefirst GitOps Catalog](https://www.youtube.com/watch?v=O8pTLnqIAuk) (February 1 2024)
 - [From GitLab SaaS to GitLab self-managed on kubefirst](https://www.youtube.com/watch?v=zKZP9IDeY0c) (January 18 2024)
