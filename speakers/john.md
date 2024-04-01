@@ -24,6 +24,23 @@ John Dietz has over 20 years of experience in lead roles across the IT spectrum 
 
 ### Livestreams & Podcasts
 
+- Kubefirst Live - [End-to-End testing & debugging with Tracetest](https://www.youtube.com/watch?v=mZUHbs2Npms) (March 28 2024)
+- Kubefirst Live - [Adding a new cloud provider to kubefirst: Akamai](https://www.youtube.com/watch?v=nuT8qKbHafQ) (March 14 2024)
+- Kubefirst Live - [Adding applications to the kubefirst GitOps Catalog](https://www.youtube.com/watch?v=O8pTLnqIAuk) (February 1 2024)
+- Kubefirst Live - [From GitLab SaaS to GitLab self-managed on kubefirst](https://www.youtube.com/watch?v=zKZP9IDeY0c) (January 18 2024)
+- Kubefirst Live - [Musing on platform engineering & cloud native trends with Abby Bangser](https://www.youtube.com/watch?v=LjrusegcNAI) (December 21 2023)
+- Kubefirst Live - [Taking Ownership of the kubefirst Argo Workflows](https://www.youtube.com/watch?v=OuPynDbN3W8) (December 7 2023)
+- Kubefirst Live - [Reloader: live reloading made easy](https://www.youtube.com/watch?v=65HFXDfaYCQ) (November 28 2023)
+- Kubefirst Live - [kubefirst 2.3: physical & virtual workload clusters](https://www.youtube.com/watch?v=KAo3KPYjQ98) (October 26 2023)
+- Kubefirst Live - [Kyverno: a policy engine designed for Kubernetes](https://www.youtube.com/watch?v=hsf58XJD3j4) (October 12 2023)
+- Kubefirst Live - [k3d: the heart of kubefirst’s local platform](https://www.youtube.com/watch?v=Ff9dVcTqKMg) (September 28 2023)
+- Kubefirst Live - [Testkube: orchestrate your tests natively on Kubernetes](https://www.youtube.com/watch?v=C7Tzi46HQqQ&t=2s) (September 14 2023)
+- Civo Navigate Europe '23 - [Mind The Gap: Bridging the Void Between IaC and GitOps](https://www.youtube.com/watch?v=2sK9VGAv79Y) (September 5 2023)
+- Civo Navigate Europe '23 - [Farming Cloud Native Platforms Be Prepared for the Army of Chickens and Eggs! - Navigate Europe 23](https://www.youtube.com/watch?v=zGgNG2tym_U) (September 5 2023)
+- Kubefirst Live - [vcluster: fully functional virtual Kubernetes clusters & how they work](https://www.youtube.com/watch?v=gVmuiK5uY7Q) (August 31 2023)
+- Kubefirst Live - [Civo Marketplace & kubefirst: a match made in heaven](https://www.youtube.com/watch?v=d3ytIg8Yqws) (August 17 2023)
+- Kubefirst Live - [Infrastructure automation: Terraform with Atlantis vs Crossplane](https://www.youtube.com/watch?v=D9vo4Xscktw) (August 3 2023)
+- Kubefirst Live - [Deep Dive on metaphor: the kubefirst platform exploration application](https://www.youtube.com/watch?v=wCAWh__xXqQ) (July 20 2023)
 - Cisco Cloud Unfiltered - [Kubefirst: Kubernetes CI/CD should be easy!](https://www.youtube.com/watch?v=Jnk8ac6Bu88) (June 26 2023)
 - Kubernetes Bytes - [Accelerating Kubernetes Adoption: Unleashing the Power of GitOps using Kubefirst](https://www.youtube.com/watch?v=CSGF9VgYmXk) (June 23 2023)
 - Kubefirst Live - [Monitor & reduce Kubernetes spend with OpenCost](https://www.youtube.com/watch?v=k8j3GZokQp8) (June 22 2023)
