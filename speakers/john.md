@@ -2,8 +2,6 @@
 
 ![John Dietz smiling](../pictures/john.jpeg)
 
-John Dietz has over 20 years of experience in lead roles across the IT spectrum - testing, performance, development, big data, devops, platform engineering, and cloud native engineering. He was instrumental in migrating the USA Today Network to the cloud and has spent the last 6 years helping startups adopt Kubernetes. As cofounder of Kubefirst he is dedicated to lowering the barrier of entry into the Cloud Native space and empowering organizations with instant GitOps platforms.
-
 ## Accounts
 
 - [GitHub](https://github.com/johndietz)
@@ -12,7 +10,11 @@ John Dietz has over 20 years of experience in lead roles across the IT spectrum 
 
 ## Biography
 
-John Dietz has over 20 years of experience in lead roles across the IT spectrum - testing, performance, development, big data, devops, platform engineering, and cloud native engineering. He was instrumental in migrating the USA Today Network to the cloud and has spent the last 6 years helping startups adopt Kubernetes. As cofounder of Kubefirst he is dedicated to lowering the barrier of entry into the Cloud Native space and empowering organizations with instant GitOps platforms.
+Meet John Dietz, the friendly CEO and relentless technical cofounder driving Kubefirst, an ambitious product dedicated to providing companies with free instant Kubernetes platforms. John and his cofounder, Jared Edwards, embarked on the Kubefirst venture with humble beginnings, building the product off-hours while navigating a year-long stealth enterprise pilot before open sourcing the project onto the CNCF landscape. Kubefirst was acquired by Kubeshop in 2022, and then again by the Civo Cloud in 2024.
+
+John’s entrepreneurial spirit sparked at a young age. At 22 he bootstrapped his own software and services company, a role he dedicated 19 years to before founding Kubefirst. During that time he doubled as engineering leads in the DevOps space in numerous successful startup and enterprise environments, gaining expertise in high scale software delivery, site reliability, platform architecture, and cloud engineering. His pivotal role in transitioning USA Today to the public cloud atop a hybrid cloud abstraction layer showcased his ability as a software platform architect of the early enterprise public cloud adopter.
+
+John has been at the forefront of Kubernetes adoption since 2017 and has assisted hundreds of companies in their transition to cloud native architectures with the Kubefirst open source platform.
 
 ## Experience
 
