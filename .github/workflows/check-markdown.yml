@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repository
-        uses: actions/checkout@main
+        uses: actions/checkout@v4.1.4
 
       - name: Validate Markdown
         uses: DavidAnson/markdownlint-cli2-action@v9.0.0
