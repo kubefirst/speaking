@@ -2,8 +2,6 @@
 
 ![John Dietz smiling](../pictures/john.jpeg)
 
-John Dietz has over 20 years of experience in lead roles across the IT spectrum - testing, performance, development, big data, devops, platform engineering, and cloud native engineering. He was instrumental in migrating the USA Today Network to the cloud and has spent the last 6 years helping startups adopt Kubernetes. As cofounder of Kubefirst he is dedicated to lowering the barrier of entry into the Cloud Native space and empowering organizations with instant GitOps platforms.
-
 ## Accounts
 
 - [GitHub](https://github.com/johndietz)
@@ -12,12 +10,19 @@ John Dietz has over 20 years of experience in lead roles across the IT spectrum 
 
 ## Biography
 
-John Dietz has over 20 years of experience in lead roles across the IT spectrum - testing, performance, development, big data, devops, platform engineering, and cloud native engineering. He was instrumental in migrating the USA Today Network to the cloud and has spent the last 6 years helping startups adopt Kubernetes. As cofounder of Kubefirst he is dedicated to lowering the barrier of entry into the Cloud Native space and empowering organizations with instant GitOps platforms.
+Meet John Dietz, the friendly CEO and relentless technical cofounder driving Kubefirst, an ambitious product dedicated to providing companies with free instant Kubernetes platforms. John and his cofounder, Jared Edwards, embarked on the Kubefirst venture with humble beginnings, building the product off-hours while navigating a year-long stealth enterprise pilot before open sourcing the project onto the CNCF landscape. Kubefirst was acquired by Kubeshop in 2022, and then again by the Civo Cloud in 2024.
+
+John’s entrepreneurial spirit sparked at a young age. At 22 he bootstrapped his own software and services company, a role he dedicated 19 years to before founding Kubefirst. During that time he doubled as engineering leads in the DevOps space in numerous successful startup and enterprise environments, gaining expertise in high scale software delivery, site reliability, platform architecture, and cloud engineering. His pivotal role in transitioning USA Today to the public cloud atop a hybrid cloud abstraction layer showcased his ability as a software platform architect of the early enterprise public cloud adopter.
+
+John has been at the forefront of Kubernetes adoption since 2017 and has assisted hundreds of companies in their transition to cloud native architectures with the Kubefirst open source platform.
 
 ## Experience
 
 ### Conferences & Meetups
 
+- [Civo Navigate North America 2024](https://www.civo.com/navigate/north-america/2024): Let's Do It Allin Under an Hour
+- [Civo Navigate Europe 2023](https://www.civo.com/navigate/europe/2023): Mind the Gap! Bridging the Void Between laC and GitOps ([recording](https://www.youtube.com/watch?v=2sK9VGAv79Y))
+- [Civo Navigate Europe 2023](https://www.civo.com/navigate/europe/2023): Farming Cloud Native Platforms Be Prepared for the Army of Chickens and Eggs! ([recording](https://www.youtube.com/watch?v=zGgNG2tym_U))
 - [Civo Navigate North America 2023](https://www.civo.com/navigate/north-america-2023): "Git" a Handle on it! A Scalable Approach to GitOps Configuration Patterns ([slides](../slides/Civo%20Navigate%20North%20America%202023%20-%20Git%20a%20Handle%20on%20it%2C%20A%20Scalable%20Approach%20to%20GitOps%20Configuration%20Patterns.pdf))
 - [Civo Navigate North America 2023](https://www.civo.com/navigate/north-america-2023): 8 Steps to Build an Open Source GitOps Cloud Native Platform on the Civo Cloud ([slides](../slides/Civo%20Navigate%20North%20America%202023%20-%208%20Steps%20to%20Build%20an%20Open%20Source%20GitOps%20Cloud%20Native%20Platform%20on%20the%20Civo%20Cloud.pdf))
 - [Denver Startup week 2022](https://www.denverstartupweek.org): How to Start Your Startup Fast on Kubernetes ([slides](../slides/Denver%20Startup%20week%202022%20-%20How%20to%20Start%20Your%20Startup%20Fast%20on%20Kubernetes.pdf) + [recording](https://www.youtube.com/watch?v=3phL4mjN-Rw))
