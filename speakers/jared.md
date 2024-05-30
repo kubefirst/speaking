@@ -14,6 +14,7 @@ Jared has spent the last 6 years focused exclusively on introducing Kubernetes t
 
 ### Conferences & Meetups
 
+- [PlatformCon2024](https://platformcon.com/workshops/building-an-oss-playground-in-1-command): Building an OSS playground in 1 command
 - [Civo Navigate North America 2024](https://www.civo.com/navigate/north-america/2024): Let's Do It Allin Under an Hour ([recording](https://www.youtube.com/watch?v=4p2YAp5tRM4))
 - [Civo Navigate Europe 2023](https://www.civo.com/navigate/europe/2023): Mind the Gap! Bridging the Void Between laC and GitOps ([recording](https://www.youtube.com/watch?v=2sK9VGAv79Y))
 - [Civo Navigate Europe 2023](https://www.civo.com/navigate/europe/2023): Farming Cloud Native Platforms Be Prepared for the Army of Chickens and Eggs! ([recording](https://www.youtube.com/watch?v=zGgNG2tym_U))
