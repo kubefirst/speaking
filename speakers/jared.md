@@ -24,6 +24,7 @@ Jared has spent the last 6 years focused exclusively on introducing Kubernetes t
 
 ### Livestreams & Podcasts
 
+- Conf42Cast - [Beyond Kubernetes](https://www.youtube.com/watch?v=H17k5GEBD8U) (August 17 2023)
 - Cisco Cloud Unfiltered - [Kubefirst: Kubernetes CI/CD should be easy!](https://www.youtube.com/watch?v=Jnk8ac6Bu88) (June 26 2023)
 - Kubernetes Bytes - [Accelerating Kubernetes Adoption: Unleashing the Power of GitOps using Kubefirst](https://www.youtube.com/watch?v=CSGF9VgYmXk) (June 23 2023)
 - Kubefirst Live - [Kubefirst 2.1: Instant GitOps platform gets an amazing User Interface](https://www.youtube.com/watch?v=WWuwjRpSewM) (June 8 2023)
