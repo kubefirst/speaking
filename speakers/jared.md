@@ -2,13 +2,15 @@
 
 ![Jared Edwards smiling in front of a rock mountain](../pictures/jared.jpg)
 
-Jared has spent the last 6 years focused exclusively on introducing Kubernetes to startup and enterprise organizations and has a great command of the cloud native ecosystem and its orchestration complexities. Building Kubefirst started as a passion project on nights and weekends where John and Jared worked to reduce the barrier of entry for Kubernetes and Cloud Native.
-
 ## Accounts
 
 - [GitHub](https://github.com/jarededwards)
 - [LinkedIn](https://www.linkedin.com/in/je-k8s/)
 - [Twitter](https://twitter.com/jre519)
+
+## Biography
+
+Jared has spent the last 6 years focused exclusively on introducing Kubernetes to startup and enterprise organizations and has a great command of the cloud native ecosystem and its orchestration complexities. Building Kubefirst started as a passion project on nights and weekends where John and Jared worked to reduce the barrier of entry for Kubernetes and Cloud Native.
 
 ## Experience
 

@@ -16,3 +16,4 @@ Here are our public speakers, which have different experience in the industry, a
 - [Frédéric Harper](speakers/fred.md), Principal Developer Advocate
 - [Jared Edwards](speakers/jared.md), Technical Founder
 - [John Dietz](speakers/john.md), Technical Founder
+- [Simon Emms](speakers/simon.md), Senior Platform Engineer
