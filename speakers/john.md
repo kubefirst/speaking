@@ -6,7 +6,7 @@
 
 - [GitHub](https://github.com/johndietz)
 - [LinkedIn](https://www.linkedin.com/in/jd-k8s/)
-- [Twitter](https://twitter.com/vitamindietz)
+- [Twitter / X](https://twitter.com/vitamindietz)
 
 ## Biography
 
@@ -20,6 +20,7 @@ John has been at the forefront of Kubernetes adoption since 2017 and has assiste
 
 ### Conferences & Meetups
 
+- [Civo Navigate Europe 2024](https://www.civo.com/navigate/europe/2024): GitOps for Hybrid Clouds: A Game-Changer for Your Kubernetes! ([recording](https://www.youtube.com/watch?v=u_ZgeS2_qeI))
 - [Cloud Native NoVA](https://community.cncf.io/events/details/cncf-cloud-native-nova-presents-platform-engineering-from-scratch-to-clusterception/): Platform Engineering from Scratch to Clusterception
 - [PlatformCon2024](https://platformcon.com/workshops/building-an-oss-playground-in-1-command): Building an OSS playground in 1 command ([recording](https://www.youtube.com/watch?v=mSJUBwCPuPI))
 - [Civo Navigate North America 2024](https://www.civo.com/navigate/north-america/2024): Let's Do It Allin Under an Hour ([recording](https://www.youtube.com/watch?v=4p2YAp5tRM4))
@@ -33,6 +34,15 @@ John has been at the forefront of Kubernetes adoption since 2017 and has assiste
 
 #### 2024
 
+- Kubefirst Live - [Rapid application development in Kubernetes with grapple](https://www.youtube.com/watch?v=5GblpXLnjlI) (December 5)
+- The Cloud-Native Club — [Project Spotlight: Kubefirst](https://www.youtube.com/live/2xwGRKjfNAk) (November 28)
+- Platform Engineering Podcast — [Democratizing Kubernetes: The Kubefirst Journey](https://www.youtube.com/watch?v=_APAJQwB_0w) (November 27)
+- Kubefirst Live - [Kubefirst superpowers, now available on Microsoft Azure](https://www.youtube.com/watch?v=D4gaKRS6gzg) (November 21)
+- Kubefirst Live - [What is cooking at Konstruct with Kubefirst & Colony](https://www.youtube.com/watch?v=Nqa61ZKwo8E) (November 7)
+- Kubefirst Live - [WebAssembly workloads on Kubernetes with SpinKube](https://www.youtube.com/watch?v=BUuSbuJRbnQ) (October 24)
+- Kubefirst Live - [From Kubefirst to Konstruct: everything you need to know](https://www.youtube.com/watch?v=OWWdprmvX4Y) (September 26)
+- Kubefirst Live - [Delivering great Infrastructure as Code](https://www.youtube.com/watch?v=kP7dICR8FRo) (August 29)
+- Kubefirst Live - [Validate & remediate Kubernetes resources for best practices with Polaris](https://www.youtube.com/watch?v=4l0nGpi09dA) (August 15)
 - Kubefirst Live - [Building composable internal developer platforms (IDPs) with Kratix](https://www.youtube.com/watch?v=yAji69_Qa20) (July 18)
 - Kubefirst Live - [Keep your secrets out of your source code with GitGuardian](https://www.youtube.com/watch?v=ViqWYFUBnHc) (June 20)
 - Kubefirst Live - [Double Kubernetes efficiency to optimize cost & performance with StormForge](https://www.youtube.com/watch?v=DDnEzQw46FM) (June 6)
