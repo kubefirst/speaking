@@ -6,7 +6,7 @@
 
 - [GitHub](https://github.com/fharper)
 - [LinkedIn](https://www.linkedin.com/in/fredericharper)
-- [Twitter](https://twitter.com/fharper)
+- [Twitter / X](https://twitter.com/fharper)
 
 ## Biography
 
@@ -22,9 +22,27 @@ Fred gave 190 talks in 23 different countries. You can find the full list, inclu
 
 #### 2024
 
+- Kubefirst Live - [Rapid application development in Kubernetes with grapple](https://www.youtube.com/watch?v=5GblpXLnjlI) (December 5)
+- The devrelshow with Fred - [episode 27 with Siddhant Agarwal from Neo4j](https://www.youtube.com/watch?v=Jg2P_x77ST0) (November 28)
+- Kubefirst Live - [Kubefirst superpowers, now available on Microsoft Azure](https://www.youtube.com/watch?v=D4gaKRS6gzg) (November 21)
+- Kubefirst Live - [What is cooking at Konstruct with Kubefirst & Colony](https://www.youtube.com/watch?v=Nqa61ZKwo8E) (November 7)
+- The devrelshow with Fred - [episode 26 with Jones Zachariah Noel N from Freshworks](https://www.youtube.com/watch?v=wJcpuVM8VV8) (October 31)
+- Kubefirst Live - [WebAssembly workloads on Kubernetes with SpinKube](https://www.youtube.com/watch?v=BUuSbuJRbnQ) (October 24)
+- The devrelshow with Fred - [episode 25 with William Imoh from Hackmamba](https://www.youtube.com/watch?v=TfqnaYssa24) (October 17)
+- The devrelshow with Fred - [episode 24 with Philip Kiely from Baseten](https://www.youtube.com/watch?v=fbofHhvlXCc) (October 3)
+- Kubefirst Live - [From Kubefirst to Konstruct: everything you need to know](https://www.youtube.com/watch?v=OWWdprmvX4Y) (September 26)
+- The devrelshow with Fred - [episode 23 with Jeff Blankenburg from DigitalOcean](https://www.youtube.com/watch?v=2oHi3VKhl4w) (September 19)
+- The devrelshow with Fred - [episode 22 with Ryan Blunden](https://www.youtube.com/watch?v=VMHnnEYSylY) (September 3)
+- Kubefirst Live - [Delivering great Infrastructure as Code](https://www.youtube.com/watch?v=kP7dICR8FRo) (August 29)
+- The devrelshow with Fred - [episode 21 with Sam Julien from Writer](https://www.youtube.com/watch?v=3K4Yxp0hISE) (August 22)
+- Kubefirst Live - [Validate & remediate Kubernetes resources for best practices with Polaris](https://www.youtube.com/watch?v=4l0nGpi09dA) (August 15)
+- The devrelshow with Fred - [episode 20 with Joel Lord from MongoDB](https://www.youtube.com/watch?v=jvGhSPXY4U4) (July 25)
+- Kubefirst Live - [Building composable internal developer platforms (IDPs) with Kratix](https://www.youtube.com/watch?v=yAji69_Qa20) (July 18)
 - Continuous Delivery Podcast - [Getting into GitOps with Fred Harper, Principal Developer Advocate, kubefirst.io](https://www.youtube.com/watch?v=6nwiRpzz7wM) (July 1)
 - The devrelshow with Fred - [episode 19 with Jonathan Gottfried from Major League Hacking](https://www.youtube.com/watch?v=8gyUad-8rN4) (June 27)
+- Kubefirst Live - [Keep your secrets out of your source code with GitGuardian](https://www.youtube.com/watch?v=ViqWYFUBnHc) (June 20)
 - Each One Teach Ten - [Ep 84, Frédéric Harper, Principal Developer Advocate at Kubefirst, Canada](https://www.youtube.com/watch?v=bmzutcikjvY) (June 15)
+- Kubefirst Live - [Double Kubernetes efficiency to optimize cost & performance with StormForge](https://www.youtube.com/watch?v=DDnEzQw46FM) (June 6)
 - The devrelshow with Fred - [episode 18 with Ram Iyengar from Cloud Foundry](https://www.youtube.com/watch?v=gxsN4JykdYk) (May 30)
 - Kubefirst Live - [Adding a Vault SSO group to your Kubernetes platform](https://www.youtube.com/watch?v=RZSVr2ASBdM) (May 23)
 - The devrelshow with Fred - [episode 17 with Haimantika Mitra from Hashnode](https://www.youtube.com/watch?v=E3qjPt26nMw) (May 16)
