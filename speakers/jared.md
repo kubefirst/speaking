@@ -6,7 +6,7 @@
 
 - [GitHub](https://github.com/jarededwards)
 - [LinkedIn](https://www.linkedin.com/in/je-k8s/)
-- [Twitter](https://twitter.com/jre519)
+- [Twitter / X](https://twitter.com/jre519)
 
 ## Biography
 
@@ -16,6 +16,7 @@ Jared has spent the last 6 years focused exclusively on introducing Kubernetes t
 
 ### Conferences & Meetups
 
+- [Civo Navigate Europe 2024](https://www.civo.com/navigate/europe/2024): GitOps for Hybrid Clouds: A Game-Changer for Your Kubernetes! ([recording](https://www.youtube.com/watch?v=u_ZgeS2_qeI))
 - [PlatformCon2024](https://platformcon.com/workshops/building-an-oss-playground-in-1-command): Building an OSS playground in 1 command
 - [Civo Navigate North America 2024](https://www.civo.com/navigate/north-america/2024): Let's Do It Allin Under an Hour ([recording](https://www.youtube.com/watch?v=4p2YAp5tRM4))
 - [Civo Navigate Europe 2023](https://www.civo.com/navigate/europe/2023): Mind the Gap! Bridging the Void Between laC and GitOps ([recording](https://www.youtube.com/watch?v=2sK9VGAv79Y))
@@ -26,6 +27,7 @@ Jared has spent the last 6 years focused exclusively on introducing Kubernetes t
 
 ### Livestreams & Podcasts
 
+- The Cloud-Native Club — [Project Spotlight: Kubefirst](https://www.youtube.com/live/2xwGRKjfNAk) (November 28 2024)
 - Conf42Cast - [Beyond Kubernetes](https://www.youtube.com/watch?v=H17k5GEBD8U) (August 17 2023)
 - Cisco Cloud Unfiltered - [Kubefirst: Kubernetes CI/CD should be easy!](https://www.youtube.com/watch?v=Jnk8ac6Bu88) (June 26 2023)
 - Kubernetes Bytes - [Accelerating Kubernetes Adoption: Unleashing the Power of GitOps using Kubefirst](https://www.youtube.com/watch?v=CSGF9VgYmXk) (June 23 2023)
