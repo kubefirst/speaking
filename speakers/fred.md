@@ -56,7 +56,7 @@ Fred gave 190 talks in 23 different countries. You can find the full list, inclu
 - Breaking the Silos - [GitOps Strategies through Kubefirst](https://www.youtube.com/live/om1rxvKJe3M) (November 4)
 - The devrelshow with Fred - [episode 4 with Mason Egger from Temporal](https://www.youtube.com/watch?v=fd8v15-11Ic) (November 2)
 - Kubefirst Live - [kubefirst 2.3: physical & virtual workload clusters](https://www.youtube.com/watch?v=KAo3KPYjQ98) (October 26)
-- The devrelshow with Fred - [episode 3 with David G. Simmons from Otterize](https://www.youtube.com/watch?v=sQvimBNlvSY) (OCtober 16)
+- The devrelshow with Fred - [episode 3 with David G. Simmons from Otterize](https://www.youtube.com/watch?v=sQvimBNlvSY) (October 16)
 - GitHub - [Open Source Friday with Kubefirst](https://www.youtube.com/live/FEmb12t6i6Y) (October 13)
 - Kubefirst Live - [Kyverno: a policy engine designed for Kubernetes](https://www.youtube.com/watch?v=hsf58XJD3j4) (October 12)
 - The devrelshow with Fred - [episode 2 with Alejandra Thomas](https://www.youtube.com/watch?v=lq4UHTJ4yEY) (October 4)
