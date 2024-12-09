@@ -1,6 +1,7 @@
 # A
 Adedeji
 admunition
+Agarwal
 Akamai
 Allin
 anonymize
@@ -13,7 +14,10 @@ automation
 
 # B
 Bangser
+Baseten
 Blanco
+Blankenburg
+Blunden
 Botkube
 
 # C
@@ -41,6 +45,7 @@ Emms
 
 # F
 Fitbit
+Freshworks
 
 # G
 Gamov
@@ -49,6 +54,7 @@ Gottfried
 Gradle
 
 # H
+Hackmamba
 Haimantika
 hardcoded
 Hashnode
@@ -58,6 +64,7 @@ hotfix
 # I
 IDPs
 Ikechukwu
+Imoh
 interoperate
 Iyengar
 
@@ -65,6 +72,7 @@ Iyengar
 
 # K
 kbot
+Kiely
 KMS
 Konstruct
 Kratix
@@ -112,6 +120,7 @@ routable
 Sadogursky
 Scarlett
 Seqera
+Siddhant
 Sillars
 Smallstep
 Specsavers
