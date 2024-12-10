@@ -90,7 +90,7 @@ John has been at the forefront of Kubernetes adoption since 2017 and has assiste
 #### 2022
 
 - Kubefirst Live -[kubefirst v1.10 release & other awesomeness](https://www.youtube.com/watch?v=cjbWbyWCI4Q) (December 13)
-- Kubefirst Live -[kubefirst v1.9 Release: Github, Hashicorp Vault and Admin Console](https://www.youtube.com/watch?v=6OwLwN_G9D0) (October 11)
+- Kubefirst Live -[kubefirst v1.9 Release: GitHub, HashiCorp Vault and Admin Console](https://www.youtube.com/watch?v=6OwLwN_G9D0) (October 11)
 - Kubefirst Live -[kubefirst 1.8 Release](https://www.youtube.com/watch?v=2sFdz21JQ7c) (July 26)
 
 ### Videos

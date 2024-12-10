@@ -1,0 +1,22 @@
+---
+name: Check spelling & grammar
+on: [push, workflow_dispatch]
+
+jobs:
+  check-syntax:
+    name: vale
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout this repository
+        uses: actions/checkout@v4.1.7
+
+      - name: Install Vale
+        run: |
+          wget https://github.com/errata-ai/vale/releases/download/v3.7.0/vale_3.7.0_Linux_64-bit.tar.gz -O vale.tar.gz
+          tar -xvzf vale.tar.gz vale
+          rm vale.tar.gz
+
+      # Cannot run the action as reviewdog as an issue & don't fail on errors. See https://github.com/reviewdog/reviewdog/issues/1408
+      - name: Validate the syntax
+        run: ./vale --config=.vale.ini .
