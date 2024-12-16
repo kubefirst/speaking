@@ -17,6 +17,7 @@ Jared has spent the last 6 years focused exclusively on introducing Kubernetes t
 ### Conferences & Meetups
 
 - [Civo Navigate Europe 2024](https://www.civo.com/navigate/europe/2024): GitOps for Hybrid Clouds: A Game-Changer for Your Kubernetes! ([recording](https://www.youtube.com/watch?v=u_ZgeS2_qeI))
+- [Civo Navigate Europe 2024](https://www.civo.com/navigate/europe/2024): Building a local OSS platform playground in 1 command ([workshop guidelines](https://kubefirst.notion.site/Open-Source-Playground-in-a-Single-Command-ca7aa095b2ab43109536156a9d3522a1))
 - [PlatformCon2024](https://platformcon.com/workshops/building-an-oss-playground-in-1-command): Building an OSS playground in 1 command
 - [Civo Navigate North America 2024](https://www.civo.com/navigate/north-america/2024): Let's Do It Allin Under an Hour ([recording](https://www.youtube.com/watch?v=4p2YAp5tRM4))
 - [Civo Navigate Europe 2023](https://www.civo.com/navigate/europe/2023): Mind the Gap! Bridging the Void Between laC and GitOps ([recording](https://www.youtube.com/watch?v=2sK9VGAv79Y))
