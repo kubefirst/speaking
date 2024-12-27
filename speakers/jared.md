@@ -5,7 +5,7 @@
 ## Accounts
 
 - [GitHub](https://github.com/jarededwards)
-- [LinkedIn](https://www.linkedin.com/in/je-k8s/)
+- [LinkedIn](https://www.linkedin.com/in/jarededwards519/)
 - [Twitter / X](https://twitter.com/jre519)
 
 ## Biography
