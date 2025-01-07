@@ -20,6 +20,8 @@ John has been at the forefront of Kubernetes adoption since 2017 and has assiste
 
 ### Conferences & Meetups
 
+- [Civo Navigate  North America 2025](https://www.civo.com/navigate/north-america): One-Command OSS Platform: Building Your Cloud-Native Playground
+- [Civo Navigate  North America 2025](https://www.civo.com/navigate/north-america): Software is Soccer From Cleats to Clipboards
 - [Civo Navigate Europe 2024](https://www.civo.com/navigate/europe/2024): GitOps for Hybrid Clouds: A Game-Changer for Your Kubernetes! ([recording](https://www.youtube.com/watch?v=u_ZgeS2_qeI))
 - [Civo Navigate Europe 2024](https://www.civo.com/navigate/europe/2024): Building a local OSS platform playground in 1 command ([workshop guidelines](https://kubefirst.notion.site/Open-Source-Playground-in-a-Single-Command-ca7aa095b2ab43109536156a9d3522a1))
 - [Cloud Native NoVA](https://community.cncf.io/events/details/cncf-cloud-native-nova-presents-platform-engineering-from-scratch-to-clusterception/): Platform Engineering from Scratch to Clusterception
